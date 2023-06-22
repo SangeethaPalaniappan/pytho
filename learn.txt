@@ -5,6 +5,10 @@ Welcome!
 
 
 Python is the Programming language
+
+Python is the Interpreter language
+
+
 Dynamic language
 
 Easy to learn
