@@ -2,3 +2,5 @@ Python is the Programming language
 Dynamic language
 
 Easy to learn
+
+Beginner language
