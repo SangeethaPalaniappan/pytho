@@ -1,7 +1,19 @@
 Hi
+
 Welcome
 Have a great day
+
+
+Welcome!
+
+PYTHON
+
+
 Python is the Programming language
+
+Python is the Interpreter language
+
+
 Dynamic language
 
 Easy to learn
@@ -11,3 +23,5 @@ Beginner language
 Programming language helps to communivate with computer
 
 Thank You!
+
+Happy Learning
